@@ -1,0 +1,5 @@
+{
+  "DllName": "CAD_second_text.dll",
+  "ClassName": "CAD_second_text.Cmd",
+  "MethodName": "CmdSum"
+}
